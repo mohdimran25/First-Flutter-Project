@@ -78,7 +78,7 @@ class NinjaCard extends StatelessWidget {
                 ),
                 const SizedBox(width: 10.0,),
                 Text(
-                    'imran.19b101170@abes.ac.in',
+                    'Enter your email here',
                   style: TextStyle(
                     color: Colors.grey[400],
                     fontSize: 18.0,
